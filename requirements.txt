@@ -1,0 +1,3 @@
+cloudscraper
+beautifulsoup4
+Flask
